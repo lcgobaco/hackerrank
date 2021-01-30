@@ -13,6 +13,6 @@ public class PlusPlusTest {
     @Test
     public void nPlusPlus() {
         int result = PlusPlus.nPlusPlus(3);
-        assertEquals(4, result);
+        assertEquals(3, result);
     }
 }

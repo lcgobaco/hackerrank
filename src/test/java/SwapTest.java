@@ -9,8 +9,8 @@ public class SwapTest {
         int x = 2;
         int y = 3;
         Swap.swapNative(x, y);
-        assertEquals(3, x);
-        assertEquals(2, y);
+        assertEquals(2, x);
+        assertEquals(3, y);
     }
 
     @Test
